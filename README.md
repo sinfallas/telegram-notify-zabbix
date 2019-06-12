@@ -14,7 +14,7 @@ Put the script in alertscript folder on Zabbix server and add a media type in th
 
 ## Telegram
 
-A Telegram BOT is a special account in which can be possible use HTTP API to send messages, images ecc... to users that are connected to the BOT.
+A Telegram BOT is a special account in which can be possible use HTTP API to send messages, images ecc. to users that are connected to the BOT.
 First of all, you have to create a Telegram BOT, from a normal Telegram account. So, you have to be already registered to Telegram.
 
 From Telegram search the contact BotFather, press Start and the send message `/start`
@@ -47,7 +47,7 @@ The group id is id with a minus before, for example *-57169325*
 
 ## Script
 
-Download the zabbix-telegram.sh from here and put in alertscript folder on Zabbix server.
+Download the zabbix-telegram.sh from here and put in alertscript folder (/usr/lib/zabbix/alertscripts/) (v4.2.3) on Zabbix server.
 
 Then open it and modify these settings:
  - ZBX_URL with the Zabbix address or URL
