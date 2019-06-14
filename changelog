@@ -1,0 +1,83 @@
+commit a6ef869cebd63c0f97eb782aff632f9ae0ef312e (HEAD -> master, tag: v1.0, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 12:07:36 2019 +0000
+
+    Add new file
+
+commit 2a307e9934e4b9782fb2f9613a2df5a17a0de1f4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 12:07:12 2019 +0000
+
+    Delete zabbix-telegram.sh
+
+commit e213864211ac033d79138af73115559f29e317e4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 12:04:07 2019 +0000
+
+    Update README.md
+
+commit 80779a698fbcd2fb2638f1d607eb9c0b2b564cbb
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 12:00:13 2019 +0000
+
+    Agregar LICENSE
+
+commit e324d312eb52ebaec76351a245345fe0ca342f4f
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:59:49 2019 +0000
+
+    Add new file
+
+commit b53f9592283158e8d4a99b5778b85238707a1403
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:59:01 2019 +0000
+
+    Subir nuevo archivo
+
+commit 28ef01ef3643609a1421c3af33516e04145c93db
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:58:50 2019 +0000
+
+    Subir nuevo archivo
+
+commit b9bf0d62b5b71a13d48e591f3c2e3a88e4bf42b9
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:58:37 2019 +0000
+
+    Subir nuevo archivo
+
+commit 8d63de7edc9b86b1ffcf8acf29ed361e6cfa3d4a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:58:24 2019 +0000
+
+    Subir nuevo archivo
+
+commit 4952b0fad5e651a3a2143aa99cf9ffc33f9826f9
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:58:09 2019 +0000
+
+    Subir nuevo archivo
+
+commit 5b68024ac972d9da39a98909f811c21cf95073c1
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:57:53 2019 +0000
+
+    Subir nuevo archivo
+
+commit 0b55da52811eed66973e320b7dcca10929196ef1
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:57:23 2019 +0000
+
+    Agregar nuevo directorio
+
+commit 02cb5a90120e8a3a96e36bd4c7969356862f9e27
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:56:57 2019 +0000
+
+    Update README.md
+
+commit d8570bcf46edaed21cff2d937e659c9982d5c6aa
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jun 12 11:55:57 2019 +0000
+
+    Initial commit
